@@ -1,0 +1,78 @@
+---
+# true / false
+spawnmobs: true
+# show spawn/despawn messages to the console
+spawnmsgs: false
+# show name tags and health percent if percent is less than 100
+# damagetags: false
+# regain this much health over time when idle
+# setting to 0 disables
+regainhealth: 1
+# mobs will not spawn in any worldname containing one of these strings
+nospawn:
+- nether
+- nether2
+- nether3
+- world
+- world2
+- overworld
+# quantity of mobs to spawn of each type (higher numbers will use a lot more system resources)
+# 3 mobs spawn by default per type, add a mob below to change the spawn quantity, use 0 for none
+# available mobs are:
+EnderDragon: 1
+Endermite: 4
+Shulker: 6
+Enderman: 3
+Enderman1: 2
+Enderman2: 2
+Enderman3: 1
+Enderman4: 3
+Enderman5: 1
+Enderman6: 3
+Enderman7: 2
+Enderman8: 3
+Enderman9: 2
+Enderman10: 1
+Enderman11: 1
+Enderman12: 2
+Enderman13: 1
+Enderman14: 3
+Enderman15: 1
+Enderman16: 2
+Enderman17: 3
+Enderman18: 1
+Enderman19: 3
+Enderman20: 2
+Enderman21: 1
+Enderman22: 3
+Enderman23: 2
+Enderman25: 3
+Enderman26: 1
+Enderman27: 3
+Enderman28: 2
+Enderman29: 1
+Enderman30: 2
+Enderman31: 3
+Enderman32: 3
+Enderman33: 1
+Enderman34: 2
+Enderman35: 2
+Enderman36: 1
+Enderman37: 1
+Enderman38: 3
+Enderman39: 3
+Enderman40: 0
+Enderman41: 0
+Enderman42: 0
+Enderman43: 0
+Enderman44: 0
+Enderman45: 0
+Enderman46: 0
+Enderman47: 0
+Enderman48: 0
+Enderman49: 0
+Enderman50: 0
+Enderman51: 0
+Enderman52: 0
+Enderman53: 0
+...
